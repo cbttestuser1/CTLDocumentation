@@ -2,5 +2,6 @@ Application	url
 CTL Documentation:	https://github.com/cbttestuser1/CTLDocumentation
 Automation project repo:	https://github.com/cbttestuser1/ct-loan 
 Application dev environment:	http://cybertekschool.com/ctl.dev
+Application qa test environment: http://cybertekschool.com/ctl.qa
 JIRA board:	http://ec2-54-244-62-153.us-west-2.compute.amazonaws.com:8080/secure/RapidBoard.jspa?rapidView=41
 Jenkins:	http://ec2-54-244-62-153.us-west-2.compute.amazonaws.com:8090/login?from=%2F
