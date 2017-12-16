@@ -1,22 +1,25 @@
 1. Create account with uber conference https://www.uberconference.com
 2. Create daily scrum meeting and send invite to your team members and include dev team as well( Maruf, Maria, Murodil, )
 
-You will be responsible to start scrum on time and follow up on the team progress
-
-All team info must be documented in Project Orgchart folder:
+3. Organize and run all the meetings. You will be responsible to start scrum on time and follow up on the team progress. 
+   All team info must be documented in Project Orgchart folder:
 						team members
 						meatings
 						demo
 						retro
-						sprint grooming
+						backlog grooming
 						sprint planning
 						
-						
- 						
-
-3. Make sure all your team members have access to the following: 
+4. Make sure all your team members have access to the following: 
 						- slack - to get access slack/email to Maria
 						- git repository - to get access slack/email to Musa
 						- jira - to get access slack/email Maruf
+5. Make sure team members have all the necessary links for JIRA, git etc. All links are listed in links.txt file. 
+   Update the file in case some thing is missing.
+   
+6. Discuss the branching and review policy with devs and DevOps team. All teams should follow the same guidelines.
+
+7. Come up with a strategy for estimating story points. Team should decide how to do estimates.
+
 						
 					
